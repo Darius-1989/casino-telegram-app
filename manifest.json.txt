@@ -1,0 +1,16 @@
+{
+    "name": "🎰 Lucky Casino",
+    "short_name": "Casino",
+    "description": "Мини-казино с 3 играми на виртуальные бонусы",
+    "version": "1.0.0",
+    "icons": [{
+        "src": "https://cdn-icons-png.flaticon.com/512/2704/2704854.png",
+        "sizes": "192x192",
+        "type": "image/png"
+    }],
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#0f0c29",
+    "background_color": "#0f0c29",
+    "orientation": "portrait"
+}
